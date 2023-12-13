@@ -36,3 +36,5 @@ const myObject = {
 for (const [key,value] of myObject) {
     console.log(key , ':-', value);    
 }
+// objects - for in loop
+// arrays - for of loop
